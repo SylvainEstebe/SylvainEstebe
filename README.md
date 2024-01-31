@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sylvainestebe.netlify.app/](https://sylvainestebe.netlify.app/)
 
-- 💬 Ask me about **pupillometry**
+- 💬 Ask me about **cognitive science**
 
 - 📫 How to reach me **sylvain.estebe@gmail.com**
 
