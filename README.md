@@ -2,12 +2,15 @@
 
 - 💬 Student in **cognitive science**
 
-- 📫 How to reach me **sylvain.estebe@gmail.com**
+- 📫 How to reach me: **sylvain.estebe@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sylvain-estebe-97485a118/)
-- 
-I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here [https://doodle.com/bp/estebesylvain/meeting)
+- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/sylvain-estebe-97485a118/)
 
+I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here: [Schedule a Meeting](https://doodle.com/bp/estebesylvain/meeting)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sylvain_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sylvain_es" height="30" width="40" /></a>
