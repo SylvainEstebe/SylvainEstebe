@@ -5,6 +5,8 @@
 - 📫 How to reach me **sylvain.estebe@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sylvain-estebe-97485a118/)
+- 
+I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here [https://doodle.com/bp/estebesylvain/meeting)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
