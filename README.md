@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sylvain Estebe</h1>
-<h3 align="center">A cognitive scientist student</h3>
 
 - 💬 Student in **cognitive science**
 
