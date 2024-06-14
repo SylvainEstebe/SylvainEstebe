@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sylvain Estebe</h1>
 <h3 align="center">A cognitive scientist student</h3>
 
-- 👨‍💻 All of my projects are available at [https://sylvainestebe.netlify.app/](https://sylvainestebe.netlify.app/)
-
-- 💬 Ask me about **cognitive science**
+- 💬 Student in **cognitive science**
 
 - 📫 How to reach me **sylvain.estebe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1keV3BCRjq9sMVSAuAouwDA-pjynJFX37/view](https://drive.google.com/file/d/1keV3BCRjq9sMVSAuAouwDA-pjynJFX37/view)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sylvain-estebe-97485a118/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
