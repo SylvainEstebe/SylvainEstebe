@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvain Estebe</h1>
- I am into cognitive science, data science and computational social science. I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here
+<p>I am into cognitive science, data science, and computational social science. I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here.</p>
 
 - 📫 How to reach me: [Schedule a Meeting](https://doodle.com/bp/estebesylvain/meeting)
 
@@ -7,14 +7,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sylvain_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sylvain_es" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sylvain-estebe-97485a118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sylvain-estebe-97485a118" height="30" width="40" /></a>
-<a href="https://instagram.com/pepside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepside" height="30" width="40" /></a>
-<a href="https://medium.com/@sylvain.estebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sylvain.estebe" height="30" width="40" /></a>
+  <a href="https://bsky.app/profile/sylvainestebe.bsky.social" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bluesky_Social_logo.svg" alt="bluesky" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/sylvain_es" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sylvain_es" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sylvain-estebe-97485a118" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sylvain-estebe-97485a118" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/pepside" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepside" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@sylvain.estebe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sylvain.estebe" height="30" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> 
