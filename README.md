@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sylvain Estebe</h1>
-<p>I am into cognitive science, data science, and computational social science. I'm always happy to take the time to discuss tech, cognitive science, and share our experiences. Feel free to schedule a meeting with me here.</p>
+<h1 align="center">Hi, I'm Sylvain Estebe 👋</h1>
+<p>I am studying cognitive science. I'm always happy to take the time to discuss tech, cognitive science, and share experiences. Feel free to schedule a meeting with me here.</p>
 
 - 📫 How to reach me: [Schedule a Meeting](https://doodle.com/bp/estebesylvain/meeting)
 
