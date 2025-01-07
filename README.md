@@ -6,10 +6,6 @@
 - 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/sylvain-estebe-97485a118/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://bsky.app/profile/sylvainestebe.bsky.social" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bluesky_Social_logo.svg" alt="bluesky" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/sylvain_es" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sylvain_es" height="30" width="40" />
   </a>
