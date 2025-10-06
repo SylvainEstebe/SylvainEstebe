@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sylvain Estebe 👋</h1>
-<p>I am studying cognitive science. I'm always happy to take the time to discuss tech, cognitive science, and share experiences. Feel free to schedule a meeting with me here.</p>
+<p>I am a cognitive scientist I'm always happy to take the time to discuss tech, cognitive science, and share experiences. Feel free to schedule a meeting with me here.</p>
 
 - 📫 How to reach me: [Schedule a Meeting](https://doodle.com/bp/estebesylvain/meeting)
 
@@ -14,10 +14,6 @@
   </a>
   <a href="https://instagram.com/pepside" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepside" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@sylvain.estebe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sylvain.estebe" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
