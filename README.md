@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sylvain Estebe 👋</h1>
 <p>I am a cognitive scientist I'm always happy to take the time to discuss tech, cognitive science, and share experiences. Feel free to schedule a meeting with me here.</p>
 
-- 📫 How to reach me: [Schedule a Meeting](https://doodle.com/bp/estebesylvain/meeting)
+- 📫 How to reach me: [Schedule a Meeting](https://calendar.app.google/74u6fA1bJRRAfkWb7)
 
 - 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/sylvain-estebe-97485a118/)
 
