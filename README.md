@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Sylvain Estebe 👋</h1>
-<p>I am lost somewhere between data science, cognitive science and cognitive modeling. Feel free to reach out.</p>
+<p>I build computational models to study how people make decisions under uncertainty — using Bayesian inference, agent-based simulation, and LLM pipelines. My work spans individual cognition, collective decision-making, and cultural evolution, with a common thread: how environmental conditions (resources, volatility) shape behavior.
+
+. Feel free to reach out.</p>
 
 - 📫 How to reach me: [Schedule a Meeting](https://calendar.app.google/74u6fA1bJRRAfkWb7)
 
