@@ -7,7 +7,7 @@
 
 ### About me
 
-As a Graduate Research Assistant at Aarhus University, I am part of the Center for Humanities Computing group. I am enthusiastic about computational social science and cognitive computational science — using models and data to understand how people think, decide, and behave together.
+As a Graduate Research Assistant at Aarhus University, I am part of the Center for Humanities Computing group. I am enthusiastic about computational social science and cognitive computational science.
 
 ### 📫 Let's talk
 Always happy to chat about research, collaborations, or new ideas.
